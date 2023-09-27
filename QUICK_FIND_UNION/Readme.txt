@@ -1,0 +1,1 @@
+This is the Quick-Find-Union Algorithm with path compression applied to a Monte Carlo simulation previewing the percolation of a system.
